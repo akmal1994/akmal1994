@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akmal Jah Quamri
-- 👀 I’m interested in Artificial Intelligence and Lachine Learning
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Machine Learning, SQL, Data Analysis
 - 💞️ I’m looking for someone who can help me by giving feedback on my work
 - 📫 How to reach me // akmalkamri9@gmail.com // akmalquamri@outlook.com // 
